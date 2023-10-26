@@ -6,6 +6,8 @@ Arth Vala - Development [Backend]
 Chetan Patil - Development [Frontend]
 Prince Jasani - Documentation
 
+Languages Used : MERN STACK, Firebase.
+
 Steps to run this Project,
   1. Import this Project on your System by git bash or any other suitable Medium.
   2. Once you have installed it in your System, Open the Folder from any IDE.
