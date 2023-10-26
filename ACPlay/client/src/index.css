@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.height-screen{
+    height: calc(100vh - 64px);
+
+}
